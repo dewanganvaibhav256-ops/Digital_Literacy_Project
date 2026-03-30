@@ -17,14 +17,14 @@ This repository contains my **Digital Literacy Portfolio** for the CSE0001 cours
 
 | Platform | Profile Link |
 | :--- | :--- |
-| **GitHub** | [github.com/kushagra9926](https://github.com/kushagra9926) |
-| **LinkedIn** | [linkedin.com/in/kushagra-joshi-9b9497258/](https://www.linkedin.com/in/kushagra-joshi-9b9497258/) |
-| **Kaggle** | [kaggle.com/joshikushagra](https://www.kaggle.com/joshikushagra) |
+| **GitHub** | https://github.com/dewanganvaibhav256-ops | 
+| **LinkedIn** | https://www.linkedin.com/in/vaibhav-dewangan-8896163a2/ |
+| **Kaggle** | https://www.kaggle.com/vaibhavdewangan05 |
 
 ### Task 3: Coding & Collaboration Platforms (Module 3)
 * **Description:** * **Coding Practice:** Completed a beginner challenge on [HackerRank](https://www.hackerrank.com/).
   * **Google Form:** Created a 5-question Digital Literacy Awareness Quiz.
-* **Quiz Link:** [Take the Quiz Here](https://docs.google.com/forms/d/e/1FAIpQLSeV9fQCw7X5wIauC-GO9VP4vnLLtZSxKqsH6ljafphJaOp_BQ/viewform?usp=publish-editor)
+* **Quiz Link:** [Take the Quiz Here](https://docs.google.com/forms/d/e/1FAIpQLSenxERlSz1jngjrCr-NWIRfXBNrUrKmJaEAMBtOZbNXHK7CAA/viewform?usp=sharing&ouid=103660322356989056092)
 * **Directory:** `task-3-platforms/`
 
 ### Task 4: Professional Email & Etiquette Guide (Module 4)
@@ -33,14 +33,11 @@ This repository contains my **Digital Literacy Portfolio** for the CSE0001 cours
 * **Directory:** `task-4-email-etiquette/`
 
 ### Task 5: Cybercrime Awareness Case Study (Module 5)
-* **Description:** A 200–250 word case study focusing on **UPI Fraud**, accompanied by an 8-point prevention checklist.
+* **Description:** A 200–250 word case study focusing on **UPI Fraud**.
 * **Reporting Resources:** * **Portal:** [cybercrime.gov.in](https://cybercrime.gov.in/)
   * **National Helpline:** 1930
 * **Directory:** `task-5-cybercrime/`
 
 ---
-> *This repository was created by Kushagra Joshi as part of the CSE0001 coursework.*
+> *This repository was created by Vaibhav Dewangan as part of the CSE0001 coursework.*
 
-
-### Google form link for Digital Literacy Quiz
-https://docs.google.com/forms/d/e/1FAIpQLSenxERlSz1jngjrCr-NWIRfXBNrUrKmJaEAMBtOZbNXHK7CAA/viewform?usp=sharing&ouid=103660322356989056092
